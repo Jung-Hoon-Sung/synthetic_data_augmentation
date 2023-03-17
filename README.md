@@ -1,3 +1,5 @@
+Paper : Synthetic Image Generation for Data Augmentation to Train an Unconscious Person Detection Network in a UAV Environment
+
 1. Separating foreground and background through salient object detection:
 
 (1) Go to the "rembg" folder.
